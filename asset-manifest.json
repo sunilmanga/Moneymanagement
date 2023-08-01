@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/Moneymanagement/static/css/main.7dc584c3.css",
-    "main.js": "/github.io/Moneymanagement/static/js/main.72e9d223.js",
-    "static/js/787.d2495b26.chunk.js": "/github.io/Moneymanagement/static/js/787.d2495b26.chunk.js",
-    "static/media/photo.png": "/github.io/Moneymanagement/static/media/photo.bb90d972010551c45c4f.png",
-    "static/media/creditpic.png": "/github.io/Moneymanagement/static/media/creditpic.fb820102ba978d9b0888.png",
-    "index.html": "/github.io/Moneymanagement/index.html",
-    "main.7dc584c3.css.map": "/github.io/Moneymanagement/static/css/main.7dc584c3.css.map",
-    "main.72e9d223.js.map": "/github.io/Moneymanagement/static/js/main.72e9d223.js.map",
-    "787.d2495b26.chunk.js.map": "/github.io/Moneymanagement/static/js/787.d2495b26.chunk.js.map"
+    "main.css": "/github.io/Moneymanagement/login/static/css/main.7dc584c3.css",
+    "main.js": "/github.io/Moneymanagement/login/static/js/main.65516ddc.js",
+    "static/js/787.d2495b26.chunk.js": "/github.io/Moneymanagement/login/static/js/787.d2495b26.chunk.js",
+    "static/media/photo.png": "/github.io/Moneymanagement/login/static/media/photo.bb90d972010551c45c4f.png",
+    "static/media/creditpic.png": "/github.io/Moneymanagement/login/static/media/creditpic.fb820102ba978d9b0888.png",
+    "index.html": "/github.io/Moneymanagement/login/index.html",
+    "main.7dc584c3.css.map": "/github.io/Moneymanagement/login/static/css/main.7dc584c3.css.map",
+    "main.65516ddc.js.map": "/github.io/Moneymanagement/login/static/js/main.65516ddc.js.map",
+    "787.d2495b26.chunk.js.map": "/github.io/Moneymanagement/login/static/js/787.d2495b26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dc584c3.css",
-    "static/js/main.72e9d223.js"
+    "static/js/main.65516ddc.js"
   ]
 }
